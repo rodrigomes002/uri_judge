@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace uri_judge._1042
+namespace uri_judge
 {
-    class _1042
+    public class _1042
     {
-        static void Main(string[] args)
+        public static void SortSimples()
         {
             string[] entrada = Console.ReadLine().Split(' ');
             int valor1 = Int32.Parse(entrada[0]);

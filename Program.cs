@@ -6,6 +6,7 @@ namespace uri_judge
     {
         static void Main(string[] args)
         {
+            _1043.CalcularTriangulo();
         }
     }
 }

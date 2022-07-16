@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace uri_judge._1041
+namespace uri_judge
 {
-    class _1041
+    public class _1041
     {
-        static void Main(string[] args)
+        public static void CoordenadasDeUmPonto()
         {
             string[] entrada = Console.ReadLine().Split(' ');
             decimal x = Convert.ToDecimal(entrada[0]);
