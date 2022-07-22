@@ -6,7 +6,7 @@ namespace uri_judge
     {
         static void Main(string[] args)
         {
-            _1044.Multiplo();
+            _1045.TipoDeTriangulo();
         }
     }
 }
